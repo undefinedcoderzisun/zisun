@@ -1,0 +1,40 @@
+.green-color{
+color:green;
+}
+body{
+font-family:sans-serif;
+color:blue;
+line-height:23px;
+}
+.half-width{
+width:50% ;
+float:left ;
+}
+.side-imag{
+width:50% ;
+padding-left: 25;
+}
+.zisun-btn{
+color:black;
+background-color:green ;
+padding:23px 43px 23px 44px ;
+border-radius:20 ;
+text-decoration= none;
+}
+h1{
+font-size=2.5em;
+}
+.container{
+padding: 5%;
+display: inline-block;
+}
+.experience{
+padding: 30px;
+margin: 30px;
+background: yellow;
+border-radius:20;
+}
+item-experience {
+paddeing:20px;
+border-left:1px solid red 1;
+}
